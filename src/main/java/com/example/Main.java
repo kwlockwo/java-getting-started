@@ -55,6 +55,7 @@ public class Main {
 
   @RequestMapping("/comingsoon")
   String comingsoon() {
+    //comment
     return "comingsoon";
   }
   
