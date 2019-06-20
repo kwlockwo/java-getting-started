@@ -52,8 +52,6 @@ public class Main {
   String index() {
     return "index";
   }
-  
-  ddsewewew
 
   @RequestMapping("/comingsoon")
   String comingsoon() {
